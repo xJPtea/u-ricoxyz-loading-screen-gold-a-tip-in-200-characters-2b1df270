@@ -1,0 +1,1 @@
+{"description":"One sharp, funny loading-screen tip for stressed developers and AI coding agents (make.fun bounty entry)","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"loading-screen-gold","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
